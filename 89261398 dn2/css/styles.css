@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+}
+body.Main {
+  background-color: BurlyWood;
+}
+body.The-Hunger-Games {
+	background-color: GoldenRod;
+	color: Maroon;
+}	
+body.Catching-Fire {
+	background-color: FireBrick ;
+	color: Gold;
+}	
+body.Mockingjay {
+	background-color: DeepSkyBlue; 
+	color: DarkBlue;
+}	
+body.The-Ballad-of-Songbirds-and-Snakes {
+	background-color: ForestGreen; 
+	color: LawnGreen;
+}	
+body.Sunrise-on-the-Reaping {
+	background-color: DarkMagenta; 
+	color:Orchid;
+}	
+h1
+{
+	text-align: center;
+	font-family: Arial;
+	font-size: 40px;
+}
+h2{
+	font-size: 30px;
+	font-family: cursive;
+	border-top: 3px solid black;
+	padding-top: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
+p{
+	font-size: 18px;
+}
+ul a{
+	color: MediumVioletRed;
+	font-family: cursive;
+	font-size: 18px;
+}
+ol {
+	font-size: 20px;
+	font-family: cursive;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: DarkSalmon;
+}
+th {
+  background-color: DarkSalmon;
+  color: Black;
+  border: 1px solid black;
+  padding: 8px;
+}
+td {
+  background-color: LightSalmon;
+  color: Black;
+  border: 1px solid black;
+  padding: 8px;
+}
+#id1 {
+  letter-spacing: 4px;
+  color: Black ;
+}
+#plot-section1 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#plot-section2 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#plot-section3 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#plot-section4 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#plot-section5 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#film-adaptation1 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#film-adaptation2 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#film-adaptation3 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#film-adaptation4 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#film-adaptation5 {
+  letter-spacing: 4px;
+  font-family: cursive;
+}
+#id2{
+  letter-spacing: 4px;
+  color: Black ;
+}
+#id3{
+  letter-spacing: 4px;
+  color: Black ;
+}
+#id4{
+  letter-spacing: 4px;
+  color: Black ;
+}
+p, #id1 {
+  font-family: Cursive;
+}
+p, #id2 {
+  font-family: cursive;
+}
+p, #id3 {
+  font-family: cursive;
+}
+p, #id4 {
+  font-family: cursive;
+}
+.The-Hunger-Games, #id1 {
+  font-family: cursive;
+}
+.Catching-Fire, #id1 {
+  font-family: cursive;
+}
+.Mockingjay, #id1 {
+  font-family: cursive;
+}
+.The-Ballad-of-Songbirds-and-Snakes, #id1 {
+  font-family: cursive;
+}
+.Sunrise-on-the-Reaping, #id1 {
+  font-family: cursive;
+}
+li {
+  margin-bottom: 5px;
+}
+figure {
+  margin: 12px 0;
+}
+tr {
+  vertical-align: middle;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+body.The-Hunger-Games a{
+	color: SeaShell;
+}
+body.Catching-Fire a{
+	color: SeaShell;
+}
+body.Mockingjay a{
+	color: SeaShell;
+}
+body.The-Ballad-of-Songbirds-and-Snakes a{
+	color: SeaShell;
+}
+body.Sunrise-on-the-Reaping a{
+	color: SeaShell;
+}
